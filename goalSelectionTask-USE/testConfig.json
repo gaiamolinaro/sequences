@@ -1,7 +1,7 @@
 {
     "numBlocks": 2,
     "numTrials": 2,
-    "itiDur": 1.5,
+    "itiDur": 1.8,
     "feedbackDur": 2,
     "storeData": true,
 
