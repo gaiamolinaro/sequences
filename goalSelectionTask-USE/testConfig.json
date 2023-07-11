@@ -5,7 +5,8 @@
     "numTestingTrials": 8,
     
     "itiDurPre": 0.5,
-    "itiDurPost": 1.8,
+    "itiDurPost": 0.5,
+    "itiDurPostEndOfBlock": 1.4,
     "feedbackDur": 2,
     "storeData": true,
 
