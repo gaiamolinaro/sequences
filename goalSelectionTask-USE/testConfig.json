@@ -2,27 +2,23 @@
     "numBlocks": 3,
     "numTrainingBlocks": 1, 
     "numTrialsInBlock": 2,
-    "numTestingTrials": 8,
+    "numTrainingTrials": 3,
+    "numTestingTrials": 2,
     
     "itiDurPre": 0.5,
     "itiDurPost": 0.5,
     "itiDurPostEndOfBlock": 1.4,
-    "feedbackDur": 2,
+    "feedbackDur": 1.7,
     "storeData": true,
 
     "trainingSeq": [
         2, 
-        4
+        4,
+        3
     ],
 
     "testingSeq": [
-        2, 
-        4,
-        1,
-        5, 
-        6,
-        0,
-        3,
+        6, 
         7
     ],
 
