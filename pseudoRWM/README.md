@@ -27,10 +27,11 @@ Manipulating the number of repetitions.
 |0|Mostly repeated goals (75% repeated, 25% novel)|
 |1|Mostly novel goals (25% repeated, 75% novel)|
 |2|Half and half (50% repeated, 50% unique)|
+
 ## pseudoRWMConf
 Conflicting goal/nongoal outcomes.
 |Group|Description|
 |---|---|
-|0|Pure goals|
-|1|Conflicting goals|
-|2|Half and half (50% repeated, 50% unique)|
+|0|Pure goals: outcomes are drawn from a set of two fractal image pairs, each used six times per stimulus with consistent labels|
+|1|Conflicting goals: outcomes are presented presented three times as a goal and three times as a nongoal|
+|2|Baseline: |
