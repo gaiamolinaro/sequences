@@ -4,16 +4,19 @@ Across documents, each row is a variable and each column is a trial.
 
 |Row|Variable|Description|
 |---|---|---|
-|0|stim|Stimulus number|
+|0|stim|Stimulus number*|
 |1|correct_key|Index of the correct key to press|
 |2|set_size|Number of different stimuli in the block|
 |3|block|Block number|
 |4|img_folder|Folder from which stimuli are taken|
-|5|img_num|Number of the stimulus image used|
+|5|img_num|Number of the stimulus image used\*\*|
 |6|trial_type|Type of trial (1 = Points, 0 = Goals)|
 |7|goal_img|Number of the fractal image used (or NaN) for goals|
 |8|nongoal_img|Number of the fractal image used (or NaN) for nongoals|
 |9|group|Only in some experiments, tells which stimulus group a stimulus is in|
+
+\*Used as the image number pseudoRWM and pseudoRWMCtrl! <br>
+\*\*Never actually used in pseudoRWM and pseudoRWMCtrl!
 
 ## pseudoRWM
 Standard version, new goals on every iteration.
