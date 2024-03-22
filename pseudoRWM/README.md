@@ -61,3 +61,23 @@ Conflicting goal/nongoal outcomes more strongly.
 |2|Baseline: outcomes are drawn from a set of 2 fractal image pairs, each used 6 times per stimulus with consistent labels|
 
 "Novel" fractals are now truly novel (only occur once in the task) in both pseudoRWMReps2 and pseudoRWMCtrl2.
+
+## pseudoRWMReps3
+Manipulating the number of repetitions even  more strongly.
+|Group|Description|
+|---|---|
+|0|Mostly repeated goals: 9 presentations of a repeated goal/nongoal pair, 3 novel (per stimulus)|
+|1|Mostly novel goals: 3 presentations of a repeated goal/nongoal pair, 6 novel (per stimulus)|
+|2|Half and half: 6 presentations of a repeated goal/nongoal pair, 6 novel (per stimulus)|
+
+Shared goal/nongoal images are unique to each stimulus group, and reused in each block. 
+
+## pseudoRWMConf3
+Conflicting goal/nongoal outcomes even more strongly.
+|Group|Description|
+|---|---|
+|0|Pure goals: outcomes are drawn from a single pair of fractal image used 12 times per stimulus with consistent labels|
+|1|Conflicting goals:  outcomes are drawn from a single pair of fractal image used 12 times per stimulus, half the time with goal-nongoal labels and half the time with nongoal-goal labels labels|
+|2|Baseline: outcomes are drawn from a set of 2 fractal image pairs, each used 6 times per stimulus with consistent labels|
+
+Goal/nongoal images are reused in each block. 
