@@ -1,7 +1,7 @@
 {
   "fbQuantBase":               [3, 3, 3, 3, 3],
   "fbQuantCrash":              [1, 1, 1, 1, 1],
-  "goalProgCrashThreshold":    [1, 1, 1, 1, 1],
+  "goalProgCrashThreshold":    [1, 0.5, 0.5, 1, 1],
   "size0":                     [6, 6, 6, 6, 6],
   "size1":                     [6, 6, 6, 6, 6],
   "size2":                     [6, 6, 6, 6, 6],
