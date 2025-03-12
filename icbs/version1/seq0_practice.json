@@ -508,7 +508,7 @@
         3,
         1
     ],
-    "goalRuleMatchesDict": [
+    "disableGoalEvents": [
         1,
         1,
         0,
